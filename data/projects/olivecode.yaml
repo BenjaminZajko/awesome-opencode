@@ -1,0 +1,15 @@
+name: OliveCode
+repo: https://github.com/BenjaminZajko/opencodeFORK
+tagline: OpenCode fork with free-model setup, local Ollama, Assist reviews, and Telegram Remote
+description: An unofficial OpenCode-derived terminal coding agent distributed as a separate public-preview
+  app. It provides guided free-cloud and local Ollama model selection, optional Assist planning and follow-through
+  reviews, and Telegram tasks to a paired awake computer. OliveCode has no subscription or credit packs
+  of its own; cloud-provider quotas and local hardware requirements apply. It is not an official OpenCode
+  product.
+homepage: https://olivecode.dev/
+tags:
+- fork
+- terminal
+- ollama
+- local-models
+- telegram
